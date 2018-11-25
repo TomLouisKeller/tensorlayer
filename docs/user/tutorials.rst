@@ -7,7 +7,7 @@ Tutorials
 For deep learning, this tutorial will walk you through building handwritten
 digits classifiers using the MNIST dataset, arguably the "Hello World" of neural
 networks. For reinforcement learning, we will let computer learns to play Pong
-game from the original screen inputs. For nature language processing, we start
+game from the original screen inputs. For natural language processing, we start
 from word embedding and then describe language modeling and machine
 translation.
 
